@@ -3,11 +3,16 @@ Analisis dan Visualisasi Data Lagu Spotify is a Data Science project based on ju
 This project is made in order to fulfill one of our Introduction to Computing course requirements.
 
 ## Notes
-The `requirements.txt` file should list all Python libraries that this simulator depends on, and they will be installed using:
+The `requirements.txt` file should list all Python libraries that this simulator depends on, and they will be installed by running the `0.1 Library Installation` cell which contains:
 
 ```
-pip install -r requirements.txt
+#install library
+%pip install pandas
+%pip install matplotlib
+%pip install seaborn
+%pip install plotly
 ```
+commands
 
 ## License
 See the [LICENSE](LICENSE) file
